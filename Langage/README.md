@@ -1,5 +1,6 @@
-编程语言相关：
+语言相关：
 
-1. Golang
-2. Python
-3. Shell
+1. English
+2. Golang
+3. Python
+4. Shell
