@@ -1,0 +1,1 @@
+Manual：[URL](https://shadowsockshelp.github.io/Shadowsocks/apple-id.html)
